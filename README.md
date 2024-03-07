@@ -6,6 +6,16 @@ chmod u+x init_replit
 
 ./init_replit
 
+python3 main.py //可以執行動態網站
+
+git add .
+
+git commit -m "備註" 
+
+git push //可以推回去github
+
+python3 -m http.server //開啟靜態網站
+
 On Replit:
 
 for cmsimde: pip install flask flask_cors bs4 lxml pelican markdown gevent

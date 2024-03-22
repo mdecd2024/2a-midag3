@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統 - 任務作業</title><link href="./" rel="alternate"></link><link href="./feeds/ren-wu-zuo-ye.atom.xml" rel="self"></link><id>./</id><updated>2024-03-22T11:00:00+08:00</updated><entry><title>W4 的任務</title><link href="./W4.html" rel="alternate"></link><published>2024-03-22T11:00:00+08:00</published><updated>2024-03-22T08:07:25+08:00</updated><author><name>41123135</name></author><id>tag:None,2024-03-22:./W4.html</id><summary type="html">&lt;p&gt;W4 任務&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統 - 任務作業</title><link href="./" rel="alternate"></link><link href="./feeds/ren-wu-zuo-ye.atom.xml" rel="self"></link><id>./</id><updated>2024-03-22T11:00:00+08:00</updated><entry><title>W4 的任務</title><link href="./W4.html" rel="alternate"></link><published>2024-03-22T11:00:00+08:00</published><updated>2024-03-22T08:18:08+08:00</updated><author><name>41123135</name></author><id>tag:None,2024-03-22:./W4.html</id><summary type="html">&lt;p&gt;W4 任務&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;W4 任務&lt;/p&gt;
 
 
@@ -46,6 +46,14 @@
 &lt;p&gt;再來就可以使用python3 server.py 來執行動態網站了&lt;/p&gt;
 &lt;p&gt;python3 -m http.server 可以執行靜態網站&lt;/p&gt;
 &lt;p&gt;之後再用 git add + commit + push 即可推回倉儲&lt;/p&gt;
+&lt;h2&gt;41123137的成品&lt;/h2&gt;
+&lt;p&gt;此為嵌入的影片 學員自評:70
+&lt;a href="https://drive.google.com/file/d/1wuJAxa8hxendM0DOXw7Q-M4Tl6PE2yLG/view?usp=sharing"&gt;影片點我&lt;/a&gt;
+&lt;a href="https://drive.google.com/file/d/1J5KnNnMopUKCR2dRCb515Jxdkl_k8Eos/view?usp=sharing"&gt;逐字稿.txt&lt;/a&gt;
+大綱:本部影片內容主要在教導
+1.如何使用replit進行設定個人倉儲中的Plican網誌內容更新
+2.包含新增/修改網頁頁面
+3.標題的更改,各個代名稱的意義等....&lt;/p&gt;
 &lt;h2&gt;41123139的成品&lt;/h2&gt;
 &lt;p&gt;此為嵌入的影片 學員自評:70&lt;/p&gt;
 &lt;p&gt;影片一&lt;/p&gt;

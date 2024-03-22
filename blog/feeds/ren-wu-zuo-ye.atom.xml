@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統 - 任務作業</title><link href="./" rel="alternate"></link><link href="./feeds/ren-wu-zuo-ye.atom.xml" rel="self"></link><id>./</id><updated>2024-03-22T11:00:00+08:00</updated><entry><title>W4 的任務</title><link href="./W4.html" rel="alternate"></link><published>2024-03-22T11:00:00+08:00</published><updated>2024-03-22T07:50:42+08:00</updated><author><name>41123135</name></author><id>tag:None,2024-03-22:./W4.html</id><summary type="html">&lt;p&gt;W4 任務&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統 - 任務作業</title><link href="./" rel="alternate"></link><link href="./feeds/ren-wu-zuo-ye.atom.xml" rel="self"></link><id>./</id><updated>2024-03-22T11:00:00+08:00</updated><entry><title>W4 的任務</title><link href="./W4.html" rel="alternate"></link><published>2024-03-22T11:00:00+08:00</published><updated>2024-03-22T07:59:27+08:00</updated><author><name>41123135</name></author><id>tag:None,2024-03-22:./W4.html</id><summary type="html">&lt;p&gt;W4 任務&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;W4 任務&lt;/p&gt;
 
 
@@ -21,6 +21,14 @@
 建立新的倉儲CD2024
 進入設定Pages
 點選main設圍網址的根目錄&lt;/p&gt;
+&lt;h2&gt;41123134的成品&lt;/h2&gt;
+&lt;p&gt;此為嵌入的影片  學員自評:70&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/IAST-IU3mlM?si=8EpzolYg3h63kAGw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://nfuedu-my.sharepoint.com/:t:/g/personal/41123134_nfu_edu_tw/EaEVVSnjAW5LgcdaJEYc_6oBHokoHBXbO0_5lKy3DHcagQ?e=8NKcxY"&gt;逐字稿.txt&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;cd2024_2a_w2_4_利用 Replit 管理 Github Classroom 分組倉儲
+此部影片是在說分組的倉儲最開始連結的是老師的帳號，所以我們不能用自己的replit推我們想要的內容。
+所以要用設定另一把鑰匙，藉由此鑰匙推回去我們要的內容。&lt;/p&gt;
 &lt;h2&gt;41123135的成品&lt;/h2&gt;
 &lt;p&gt;此為嵌入的影片  學員自評:75&lt;/p&gt;
 &lt;iframe width="1120" height="630" src="https://www.youtube.com/embed/CA2m5x6E4A0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
@@ -33,12 +41,12 @@
 &lt;p&gt;python3 -m http.server 可以執行靜態網站&lt;/p&gt;
 &lt;p&gt;之後再用 git add + commit + push 即可推回倉儲&lt;/p&gt;
 &lt;h2&gt;41123139的成品&lt;/h2&gt;
-&lt;p&gt;此為嵌入的影片 學員自評:70
-影片一&lt;/p&gt;
+&lt;p&gt;此為嵌入的影片 學員自評:70&lt;/p&gt;
+&lt;p&gt;影片一&lt;/p&gt;
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/w_NL3t9qtB8?si=ERPE6RgAbb_aXvKR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href="https://nfuedu-my.sharepoint.com/:t:/g/personal/41123139_nfu_edu_tw/EWyoWvfczSlJm1QuQEMrM2kB49n9oXaiPeOsj6vox8EnTA?e=8nd51M"&gt;逐字稿.txt&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;重點:點選右上角Replit帳號，點選account，點選Resource usage，找到Github，點Connect，出現Disconnect就是授權成功。主要功能是讓github和replit是信任狀態，把倉儲輸入到replit改版就可以推回github。
-影片二&lt;/p&gt;
+&lt;p&gt;重點:點選右上角Replit帳號，點選account，點選Resource usage，找到Github，點Connect，出現Disconnect就是授權成功。主要功能是讓github和replit是信任狀態，把倉儲輸入到replit改版就可以推回github。&lt;/p&gt;
+&lt;p&gt;影片二&lt;/p&gt;
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/EGapvXvECm8?si=uyNqgxpny6sfUEw-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href="https://nfuedu-my.sharepoint.com/:t:/g/personal/41123139_nfu_edu_tw/EaYyyH3sJm9Cu1Jq380zousB8NlOds_ACtCHjXc5HvRcCQ?e=NXtBXc"&gt;逐字稿.txt&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;重點:假如在進端可攜做，要先把倉儲克隆下來，利用ssh。首先要確定有權限，所以使用putty，出現對應的session和key，用session進行克隆，改版之後就可以push回去倉儲。&lt;/p&gt;

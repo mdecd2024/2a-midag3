@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-03-22T11:00:00+08:00</updated><entry><title>W4 的任務</title><link href="./W4.html" rel="alternate"></link><published>2024-03-22T11:00:00+08:00</published><updated>2024-03-22T07:59:27+08:00</updated><author><name>41123135</name></author><id>tag:None,2024-03-22:./W4.html</id><summary type="html">&lt;p&gt;W4 任務&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-03-22T11:00:00+08:00</updated><entry><title>W4 的任務</title><link href="./W4.html" rel="alternate"></link><published>2024-03-22T11:00:00+08:00</published><updated>2024-03-22T08:07:25+08:00</updated><author><name>41123135</name></author><id>tag:None,2024-03-22:./W4.html</id><summary type="html">&lt;p&gt;W4 任務&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;W4 任務&lt;/p&gt;
 
 
@@ -12,6 +12,12 @@
 &lt;p&gt;從 Replit 帳號下方的 Account,Connected Services(連線服務區) &lt;/p&gt;
 &lt;p&gt;點選 Connect 後, 讓 Github 授權 Replit,&lt;/p&gt;
 &lt;p&gt;將在 Replit 中的倉儲改版後, 有權限推回 Github.&lt;/p&gt;
+&lt;h2&gt;41123129的成品&lt;/h2&gt;
+&lt;p&gt;此為嵌入的影片  學員自評:68&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/gTNNoa1KC-U?si=gZBiyWVJUP5BLX3v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/1rLWppQAdR5QJujmCf4a7DJLa2_BxBNpH/view?usp=sharing"&gt;逐字稿.txt&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;影片大綱：說明github實施強制帳戶啟用雙重認證，並教學如何啟用及注意事項&lt;/p&gt;
 &lt;h2&gt;41123131的成品&lt;/h2&gt;
 &lt;p&gt;此為嵌入的影片  學員自評:65&lt;/p&gt;
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/rc6TfLUqrgY?si=xY_cL_T7q9ewQ2m2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
@@ -59,7 +65,7 @@
 首先我們先建立一個團隊 2a-midag3 (因為我是第3組)由組長來建立
 然後點選 Code 裡的 Codespeaces 
 在終端機下輸入一些指令來完成分組的動作
-最後組員在進行加入團隊的動作&lt;/p&gt;</content><category term="任務作業"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程</title><link href="./2024-Spring-w1-blog-tutorial.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-03-08T06:43:11+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-18:./2024-Spring-w1-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+最後組員在進行加入團隊的動作&lt;/p&gt;</content><category term="任務作業"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程</title><link href="./2024-Spring-w1-blog-tutorial.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-03-22T06:38:59+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-18:./2024-Spring-w1-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 

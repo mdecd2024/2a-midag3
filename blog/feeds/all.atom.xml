@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-03-22T11:00:00+08:00</updated><entry><title>W4 的任務</title><link href="./W4.html" rel="alternate"></link><published>2024-03-22T11:00:00+08:00</published><updated>2024-03-22T07:32:48+08:00</updated><author><name>41123135</name></author><id>tag:None,2024-03-22:./W4.html</id><summary type="html">&lt;p&gt;W4 任務&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-03-22T11:00:00+08:00</updated><entry><title>W4 的任務</title><link href="./W4.html" rel="alternate"></link><published>2024-03-22T11:00:00+08:00</published><updated>2024-03-22T07:50:42+08:00</updated><author><name>41123135</name></author><id>tag:None,2024-03-22:./W4.html</id><summary type="html">&lt;p&gt;W4 任務&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;W4 任務&lt;/p&gt;
 
 
@@ -41,7 +41,17 @@
 影片二&lt;/p&gt;
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/EGapvXvECm8?si=uyNqgxpny6sfUEw-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href="https://nfuedu-my.sharepoint.com/:t:/g/personal/41123139_nfu_edu_tw/EaYyyH3sJm9Cu1Jq380zousB8NlOds_ACtCHjXc5HvRcCQ?e=NXtBXc"&gt;逐字稿.txt&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;重點:假如在進端可攜做，要先把倉儲克隆下來，利用ssh。首先要確定有權限，所以使用putty，出現對應的session和key，用session進行克隆，改版之後就可以push回去倉儲。&lt;/p&gt;</content><category term="任務作業"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程</title><link href="./2024-Spring-w1-blog-tutorial.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-03-15T09:03:48+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-18:./2024-Spring-w1-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;重點:假如在進端可攜做，要先把倉儲克隆下來，利用ssh。首先要確定有權限，所以使用putty，出現對應的session和key，用session進行克隆，改版之後就可以push回去倉儲。&lt;/p&gt;
+&lt;h2&gt;41123149的成品&lt;/h2&gt;
+&lt;p&gt;此為嵌入的影片 學員自評:70&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/YUqiwRw3wx4?si=ui_hv23MnMB4p0nC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://nfuedu-my.sharepoint.com/:t:/g/personal/41123149_nfu_edu_tw/EfqRVf2P6UtAndfgKpZXCP8BMXZgkx13cI6gRvba-i7_4A?e=CeVN7h"&gt;逐字稿.txt&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;這部影片的大綱是如何建立各組的 Team midag1 ,並利用 Codespaces 來維護內容
+首先我們先建立一個團隊 2a-midag3 (因為我是第3組)由組長來建立
+然後點選 Code 裡的 Codespeaces 
+在終端機下輸入一些指令來完成分組的動作
+最後組員在進行加入團隊的動作&lt;/p&gt;</content><category term="任務作業"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程</title><link href="./2024-Spring-w1-blog-tutorial.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-03-08T06:32:25+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-18:./2024-Spring-w1-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 

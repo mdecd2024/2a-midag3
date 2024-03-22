@@ -1,0 +1,33 @@
+---
+Title: W4 的任務
+Date: 2024-03-22 11:00
+Category: 任務作業
+Tags: 網誌編寫
+Slug: W4
+Author: 41123135
+---
+
+W4 任務
+
+<!-- PELICAN_END_SUMMARY -->
+
+# 上影片字幕及逐字稿和大綱
+
+## 41123135的成品
+
+<iframe width="1120" height="630" src="https://www.youtube.com/embed/CA2m5x6E4A0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[逐字稿.txt](https://nfuedu-my.sharepoint.com/:t:/g/personal/41123135_nfu_edu_tw/ESRExgTQcSJFq4cJl-oU3BMBa8bb_v_mihVOtDuI8D94Pw?e=cElRzY)
+
+利用Codespaces進行維護倉儲
+
+打開Codespaces 並先使用chmod u+x init_replit 來讓檔案有權限
+
+接下來使用./init_replit 讓程式自動跑 (下載各種模組
+
+再來就可以使用python3 server.py 來執行動態網站了
+
+python3 -m http.server 可以執行靜態網站
+
+之後再用 git add + commit + push 即可推回倉儲
+

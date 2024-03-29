@@ -21,6 +21,8 @@ git status //查看狀態
 
 git submodule //子模組的東西
 
+git pull origin main //把子模組更新到最新進度
+
 On Replit:
 
 for cmsimde: pip install flask flask_cors bs4 lxml pelican markdown gevent

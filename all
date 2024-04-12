@@ -1,0 +1,32 @@
+#! /bin/bash
+cd 41123122
+git pull origin main
+cd ..
+
+cd 41123129
+git pull origin main
+cd ..
+
+cd 41123131
+git pull origin main
+cd ..
+
+cd 41123134
+git pull origin main
+cd ..
+
+cd 41123135
+git pull origin main
+cd ..
+
+cd 41123137
+git pull origin main
+cd ..
+
+cd 41123139
+git pull origin main
+cd ..
+
+cd 41123149
+git pull origin main
+cd ..

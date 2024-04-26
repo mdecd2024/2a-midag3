@@ -5,56 +5,56 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2024-04-26T08:31:59-00:00</lastmod>
+<lastmod>2024-04-26T08:40:06-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2024-04-26T08:31:59-00:00</lastmod>
+<lastmod>2024-04-26T08:40:06-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2024-04-26T08:31:59-00:00</lastmod>
+<lastmod>2024-04-26T08:40:06-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2024-04-26T08:31:59-00:00</lastmod>
+<lastmod>2024-04-26T08:40:06-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./pages/about/</loc>
-<lastmod>2024-03-15T09:03:48+08:00</lastmod>
+<lastmod>2024-03-08T06:14:01+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./W10.html</loc>
-<lastmod>2024-04-26T08:31:39+08:00</lastmod>
+<lastmod>2024-04-26T08:39:49+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./W4.html</loc>
-<lastmod>2024-03-29T07:22:31+08:00</lastmod>
+<lastmod>2024-03-29T07:34:32+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./2024-Spring-w1-blog-tutorial.html</loc>
-<lastmod>2024-03-15T09:03:48+08:00</lastmod>
+<lastmod>2024-03-08T06:14:01+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -68,14 +68,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./category/ren-wu-zuo-ye.html</loc>
-<lastmod>2024-03-29T07:22:31+08:06</lastmod>
+<lastmod>2024-03-29T07:34:32+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./category/w1.html</loc>
-<lastmod>2024-03-15T09:03:48+08:06</lastmod>
+<lastmod>2024-03-08T06:14:01+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -89,7 +89,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./tag/wang-zhi-bian-xie.html</loc>
-<lastmod>2024-03-29T07:22:31+08:06</lastmod>
+<lastmod>2024-03-29T07:34:32+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -103,7 +103,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./author/kmol.html</loc>
-<lastmod>2024-03-15T09:03:48+08:06</lastmod>
+<lastmod>2024-03-08T06:14:01+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>

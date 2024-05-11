@@ -1,5 +1,4 @@
 # cmsimde_site
-12
 
 利用 init_replit 指令安裝所需 Python 模組
 
